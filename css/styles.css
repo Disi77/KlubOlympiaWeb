@@ -164,7 +164,7 @@ a {
   background-color: transparent;
 }
 a:hover {
-  color: #F4F269;
+  color: #ffed00;
   text-decoration: underline;
 }
 
@@ -6099,6 +6099,13 @@ a.close.disabled {
   vertical-align: text-top !important;
 }
 
+.bg-club-olympia {
+  background-image: url("../assets/img/herna.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #ffed00 !important;
+}
+
 .bg-primary {
 
   background-color: #ffed00 !important;
@@ -10094,13 +10101,13 @@ h3 {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-  color: #F4F269ff;
+  color: #ffed00;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link:active, #mainNav .navbar-nav li.nav-item a.nav-link:focus {
   color: #fff;
 }
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-  color: #F4F269ff;
+  color: #ffed00;
 }
 #mainNav .navbar-toggler {
   /* font-size: 80%; */
@@ -10122,11 +10129,11 @@ h3 {
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active {
     color: #2c3e50;
-    background: #F4F269ff;
+    background: #ffed00;
   }
   #mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
     color: #2c3e50;
-    background: #F4F269ff;
+    background: #ffed00;
   }
 
   #mainNav.navbar-shrink {
