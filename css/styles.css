@@ -163,6 +163,12 @@ a {
   text-decoration: none;
   background-color: transparent;
 }
+
+.link-second-color {
+  color: #0779E4ff;
+}
+
+
 a:hover {
   color: #ffed00;
   text-decoration: underline;
